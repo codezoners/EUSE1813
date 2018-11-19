@@ -1,23 +1,23 @@
 # Sound Interfaces
 
-| Date                               | Session | Topic                          | Tutors     |
-| ---                                | ------- | ---                            |            |
-| Week 1: Max and Audio              |         |                                |            |
-| [2018-11-20 Tue]                   |       1 | Max (1)                        | Nick + Tim |
-| [2018-11-22 Thu]                   |       2 | Max (2)                        | Nick       |
-| ---                                | ------- | ---                            | ---        |
-| Week 2: Touch Boards and Recording |         |                                |            |
-| [2018-11-27 Tue]                   |       3 | Field recording, editing       | Nick + Tim |
-| [2018-11-29 Thu]                   |       4 | Touch Boards                   | Tim        |
-| ---                                | ------- | ---                            | ---        |
-| Week 3: Connecting and Integrating |         |                                |            |
-| [2018-12-04 Tue]                   |       5 | Touch Boards and Max           | Nick       |
-| [2018-12-06 Thu]                   |       6 | Design Ideas                   | Tim        |
-| ---                                | ------- | ---                            | ---        |
-| Week 4: Finishing and Showing      |         |                                |            |
-| [2018-12-11 Tue]                   |       7 | Integration                    | Nick       |
-| [2018-12-13 Thu]                   |       8 | Finishing, testing, loose ends | Tim        |
-| [2018-12-14 Fri]                   |       9 | Showtime!                      | Nick + Tim |
+| Date | Session | Topic | Tutors |
+| --- | ------- | --- | |
+| Week 1: Max and Audio | | | |
+| [2018-11-20 Tue] | 1 | Max (1) | Nick + Tim |
+| [2018-11-22 Thu] | 2 | Max (2) | Nick |
+| --- | ------- | --- | --- |
+| Week 2: Touch Boards and Recording | | | |
+| [2018-11-27 Tue] | 3 | Field recording, editing | Nick + Tim |
+| [2018-11-29 Thu] | 4 | Touch Boards | Tim |
+| --- | ------- | --- | --- |
+| Week 3: Connecting and Integrating | | | |
+| [2018-12-04 Tue] | 5 | Touch Boards and Max | Nick |
+| [2018-12-06 Thu] | 6 | Design Ideas | Tim |
+| --- | ------- | --- | --- |
+| Week 4: Finishing and Showing | | | |
+| [2018-12-11 Tue] | 7 | Integration | Nick |
+| [2018-12-13 Thu] | 8 | Finishing, testing, loose ends | Tim |
+| [2018-12-14 Fri] | 9 | Showtime! | Nick + Tim |
 
 ## Week 1: Max and Audio
 
